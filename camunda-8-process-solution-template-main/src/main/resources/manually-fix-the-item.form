@@ -1,0 +1,86 @@
+{
+  "components": [
+    {
+      "text": "# Bot Exception\n## During the execution an error occured.",
+      "type": "text",
+      "id": "Field_01t6ul4"
+    },
+    {
+      "label": "Item ID:",
+      "type": "textfield",
+      "id": "Field_0gbwknp",
+      "key": "id",
+      "disabled": true
+    },
+    {
+      "label": "Exception:",
+      "type": "textfield",
+      "id": "Field_02t73eu",
+      "key": "exceptionReason",
+      "disabled": true
+    },
+    {
+      "label": "Exception Date:",
+      "type": "textfield",
+      "id": "Field_1ovl7w8",
+      "key": "exceptionedDate",
+      "disabled": true
+    },
+    {
+      "text": "## The Entry for Following Employee could not be completed:",
+      "type": "text",
+      "id": "Field_0jjfnu7"
+    },
+    {
+      "label": "First Name",
+      "type": "textfield",
+      "id": "Field_1mil1j4",
+      "key": "firstname",
+      "disabled": true
+    },
+    {
+      "label": "Last Name",
+      "type": "textfield",
+      "id": "Field_1vciik7",
+      "key": "lastname",
+      "disabled": true
+    },
+    {
+      "label": "Company Name",
+      "type": "textfield",
+      "id": "Field_1n739or",
+      "key": "companyname",
+      "disabled": true
+    },
+    {
+      "label": "Role In Company",
+      "type": "textfield",
+      "id": "Field_0ymivsw",
+      "key": "roleincompany",
+      "disabled": true
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "id": "Field_0kcth83",
+      "key": "address",
+      "disabled": true
+    },
+    {
+      "label": "Email",
+      "type": "textfield",
+      "id": "Field_0w6pnf1",
+      "key": "email",
+      "disabled": true
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "de817ed"
+  },
+  "type": "default",
+  "id": "Form_807c7b64-8ce2-4543-ad41-343000fdba46",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}
