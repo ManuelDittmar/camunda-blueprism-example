@@ -7,4 +7,4 @@ zeebe:
     worker:
       threads: 5
     job:
-      timeout: 100
+      timeout: 3s
