@@ -1,9 +1,9 @@
 zeebe:
   client:
     cloud:
-      cluster-id: 17afb95c-c0a2-4c06-ba6a-519e6cedef1c
-      client-id: GUy128e3AyUCtuz2YpzswP1-gHdpbh3K
-      client-secret: E-mGWunGmg~09S~eeWPXK-4a5gIvJ6VyPHjutwf4xrzB_SnfVwlahrEpAdvJTHRK
+      cluster-id: xxxx
+      client-id: xxxx
+      client-secret: xxxx
     worker:
       threads: 5
     job:
